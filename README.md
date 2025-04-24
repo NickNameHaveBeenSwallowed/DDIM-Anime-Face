@@ -23,3 +23,8 @@
 <div align="center">
     <img src="./SwinUnet.png" alt="SwinUnet" width="500"/>
 </div>
+
+***
+### 模型：
+带宽用完了，上一个网盘链接吧
+链接: https://pan.baidu.com/s/1Yfx6-IjtXas9HyX2hrBQAw?pwd=323u 提取码: 323u 
